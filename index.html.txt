@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Draw Buddy – Konto löschen</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      margin-top: 1.4em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Draw Buddy – Konto löschen</h1>
+
+  <p>
+    Wenn du dein Draw Buddy-Konto löschen möchtest, sende uns einfach eine kurze E-Mail.
+  </p>
+
+  <h2>So löscht du dein Konto</h2>
+  <p>
+    Sende eine E-Mail an:
+  </p>
+
+  <p>
+    <strong>E-Mail:</strong>
+    <a href="mailto:gamesjunostudio@gmail.com">gamesjunostudio@gmail.com</a>
+  </p>
+
+  <p>Bitte verwende in deiner Nachricht folgende Informationen:</p>
+  <ul>
+    <li><strong>Betreff:</strong> „Draw Buddy – Konto löschen“</li>
+    <li><strong>Dein Benutzername</strong> (falls vorhanden)</li>
+    <li><strong>Die E-Mail-Adresse</strong>, mit der du dein Konto erstellt hast</li>
+  </ul>
+
+  <p>
+    Wir löschen dein Konto innerhalb von <strong>30 Tagen</strong> und bestätigen dir die Löschung per E-Mail.
+  </p>
+
+  <h2>Welche Daten werden gelöscht?</h2>
+  <p>
+    Wir entfernen dein Benutzerkonto und alle personenbezogenen Daten, die eindeutig mit deinem Konto verknüpft sind.
+  </p>
+
+  <h2>Datenschutz</h2>
+  <p>
+    Weitere Informationen findest du in unserer Datenschutzerklärung.
+  </p>
+
+</body>
+</html>
